@@ -1629,6 +1629,7 @@ body .pv__operation--homepage .content .ope-item .o-item .img figure {
 
 body .pv__operation--homepage .content .ope-item .o-item .img figure img {
     position: absolute;
+    height: 226px;
     top: 0;
     left: 0;
     right: 0;
@@ -12572,6 +12573,17 @@ body .pv__activity--4 .content .list-activity-blog .ac-blog .acb-item a .img fig
     padding-top: 43.174603174%;
 }
 
+body .pv__activity--4 .content .product .ac-blog .acb-item a .img figure img {
+    position: absolute;
+    height: 100px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
+
 body .pv__activity--4 .content .list-activity-blog .ac-blog .acb-item a .img figure img {
     position: absolute;
     top: 0;
@@ -12628,7 +12640,7 @@ body .pv__activity--4 .content .list-activity-blog .ac-blog .acb-item a .desc p 
     -moz-line-clamp: 3;
     -webkit-box-orient: vertical;
     display: -webkit-box;
-    min-height: 72px;
+    min-height: 20px;
 }
 
 @media only screen and (max-width: 767px) {
