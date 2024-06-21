@@ -1187,7 +1187,7 @@ body .pv__slide-main--homepage .slide-inner .item {
 
 @media only screen and (max-width: 1280px) {
     body .pv__slide-main--homepage .slide-inner .item {
-        height: 475px;
+        height: 200px;
     }
 }
 
@@ -1629,7 +1629,7 @@ body .pv__operation--homepage .content .ope-item .o-item .img figure {
 
 body .pv__operation--homepage .content .ope-item .o-item .img figure img {
     position: absolute;
-    height: 226px;
+    height: auto;
     top: 0;
     left: 0;
     right: 0;
