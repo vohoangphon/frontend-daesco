@@ -12575,7 +12575,7 @@ body .pv__activity--4 .content .list-activity-blog .ac-blog .acb-item a .img fig
 
 body .pv__activity--4 .content .product .ac-blog .acb-item a .img figure img {
     position: absolute;
-    height: 100px;
+    height: auto;
     top: 0;
     left: 0;
     right: 0;
